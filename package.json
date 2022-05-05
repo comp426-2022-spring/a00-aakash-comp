@@ -1,0 +1,22 @@
+{
+  "name": "a00-aakash-comp",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a00-aakash-comp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-aakash-comp/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-aakash-comp#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
